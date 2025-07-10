@@ -4,7 +4,7 @@
 
 # Как начать работу?
 
-`git clone --recurse-submodules https://github.com/CorporationX/CorporationX`
+`git clone --recurse-submodules https://github.com/Edisolt5498/CorporationX-Edisolt.git`
 
 # Как поднять БД и другие инструменты локально?
 
